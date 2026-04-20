@@ -2,9 +2,9 @@
 
 This repository provides the official PyTorch implementation of the research paper:
 
- [Mitigating Multimodal Inconsistency via Cognitive Dual-Pathway Reasoning for Intent Recognition] (**Accepted by [ICMR 2026 Long Paper]**).
+ [Mitigating Multimodal Inconsistency via Cognitive Dual-Pathway Reasoning for Intent Recognition] (**Accepted by ICMR 2026 Long Paper**).
 
-## 1.Introduction
+## 1. Introduction
 Multimodal Intent Recognition is vital for analyzing human intentions through text, video, and audio signals. However, existing methods struggle to distinguish consistent and inconsistent cues and fail to model semantic conflicts. To address these challenges, this paper proposes a novel CDPR method, which employs cognitive dual-pathway reasoning framework to establish a stable semantic foundation and mitigate high-level inconsistencies jointly, achieving deep multimodal semantic understanding.
 
 ## 2. Dependencies
